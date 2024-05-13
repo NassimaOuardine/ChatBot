@@ -14,7 +14,7 @@ from gtts import gTTS
 bot_message = ""
 message = ""
 
-#myobj = gTTS(text="Hello I am ABDELALI HLAILI Speak Anything I am Listening", lang='fr', tld='com.au')
+#myobj = gTTS(text="Hello Speak Anything I am Listening", lang='fr', tld='com.au')
 #myobj.save("starting.mp3")
 #playsound("starting.mp3")
 
